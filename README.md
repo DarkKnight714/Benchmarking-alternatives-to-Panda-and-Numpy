@@ -18,20 +18,12 @@ we perform these benchmarks for matrix sizes of 1000x1000, 5000x5000, and 10000x
   to compare the computational efficiency of these libraries across different problem sizes.
 ```
 ### Results
-##### Pandas and it's alternatives
-```
-https://github.com/DarkKnight714/Benchmarking-alternatives-to-Panda-and-Numpy/blob/main/results_pandas_benchmarking.md
-```
-```
-or check this repository for the file named results_pandas_benchmarking.md
-```
-#### Numpy and it's alternatives
-```
-https://github.com/DarkKnight714/Benchmarking-alternatives-to-Panda-and-Numpy/blob/main/results_numpy_benchmarking.md
-```
-```
-or check this repository for the file named results_numpy_benchmarking.md
-```
+
+[Results of benchmarking for pandas and it's alternatives](https://github.com/DarkKnight714/Benchmarking-alternatives-to-Panda-and-Numpy/blob/main/results_pandas_benchmarking.md)
+
+[Results of benchmarking for numpy and it's alternatives](https://github.com/DarkKnight714/Benchmarking-alternatives-to-Panda-and-Numpy/blob/main/results_numpy_benchmarking.md)
+
+
 ### Conclusion for benchmarking Pandas and it's alternatives
 ```
 - Pandas consistently demonstrates the fastest execution times across all dataset sizes.
